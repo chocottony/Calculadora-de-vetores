@@ -1,9 +1,3 @@
-// Projeto 01 - Geometria Vetorial
-
-// Beatriz Souza - 202408800
-// Antonio Garcia - 202408633
-// Lonardo Camargo - 202510184
-
 #include <stdio.h>
 #include <locale.h>
 #include <math.h>
